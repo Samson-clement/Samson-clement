@@ -1,5 +1,5 @@
 # Hey there :wave: 
-## I am *Samson Clement* from *Diyar United Company* 🚀
+## I am *Samson Clement* 🚀
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
