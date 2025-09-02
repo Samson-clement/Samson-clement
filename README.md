@@ -4,8 +4,7 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/samson-clement/count.svg" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=samson-clement&repo=samson-clement&countColor=%237B1E7A" />
 </p>
 
 ## Get in touch :coffee:
